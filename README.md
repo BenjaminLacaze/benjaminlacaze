@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hola, soy Benjamin
 
-<!--
-**BenjaminLacaze/benjaminlacaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+soy alumno de la carrera de desarrollo de software.
+
+
 
 Here are some ideas to get you started:
 
